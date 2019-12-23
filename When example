@@ -1,0 +1,13 @@
+https://learn.co/tracks/fswd-prework-2-0/cli-essentials/programming-as-conversation-part-3-bundling-expressions-and-statements-into-methods/methods-and-arguments?batch_id=768&track_id=52506#fullscreenname = "Alice"
+ 
+if name == "Alice"
+  puts "Hello, Alice!"
+elsif name == "The White Rabbit"
+  puts "Don't be late, White Rabbit"
+elsif name == "The Mad Hatter"
+  puts "Welcome to the tea party, Mad Hatter"
+elsif name == "The Queen of Hearts"
+  puts "Please don't chop off my head!"
+else
+  puts "Whoooo are you?"
+end 
